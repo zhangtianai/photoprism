@@ -6,6 +6,8 @@ cp -r Pictures/* assets/photos/import/
 
 docker-compose up 
 
+docker exec -it *** bash
+
 make all 
 
 ./photoprism start
