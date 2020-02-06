@@ -1,3 +1,11 @@
+下载：git clone  https://github.com/photoprism/photoprism.git
+
+开发：git checkout master
+
+cp -r Pictures/* assets/photos/import/
+
+docker-compose up 
+
 PhotoPrism: Browse your life in pictures
 ========================================
 
