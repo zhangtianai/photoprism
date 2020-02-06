@@ -6,6 +6,13 @@ cp -r Pictures/* assets/photos/import/
 
 docker-compose up 
 
+make all 
+
+./photoprism start
+
+http://13.57.188.12:2342/photos
+
+
 PhotoPrism: Browse your life in pictures
 ========================================
 
