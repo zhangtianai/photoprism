@@ -15,7 +15,7 @@ make all
 ./photoprism start
 
 http://13.57.188.12:2342/photos
-
+密码：photoprism
 
 PhotoPrism: Browse your life in pictures
 ========================================
