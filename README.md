@@ -2,6 +2,8 @@
 
 开发：git checkout master
 
+git clone https://github.com/zhangtianai/Pictures.git
+
 cp -r Pictures/* assets/photos/import/
 
 docker-compose up 
