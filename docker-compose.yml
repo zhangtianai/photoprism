@@ -29,6 +29,7 @@ services:
       PHOTOPRISM_SQL_HOST: "0.0.0.0"
       PHOTOPRISM_SQL_PORT: 4000
       PHOTOPRISM_SQL_PASSWORD: "photoprism"
+      PHOTOPRISM_UPLOAD_NSFW: "true"
       TF_CPP_MIN_LOG_LEVEL: 0
 
   photoprism-db:
